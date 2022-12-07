@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=D2 Pin=U1-21
+Removed Pin From Net: NetName=D3 Pin=U1-22
+Change Component Designator: OldDesignator=S2 NewDesignator=RESET
+Added Component: Designator=P?(HDR1X5)
+Added Component: Designator=P?(HDR1X5)
+Added Pin To Net: NetName=NetR6_1 Pin=P?-1
+Added Pin To Net: NetName=VCC Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=B7 Pin=P?-4
+Added Pin To Net: NetName=B6 Pin=P?-5
+Change Net Name : Old Net Name=GND New Net Name=VSS
+Change Net Name : Old Net Name=NetR6_1 New Net Name=MCLR
+Change Net Name : Old Net Name=VCC New Net Name=VDD
+Added Member To Class: ClassName=NguyenLy Member=Component P? Header 5
+Added Room: Name=NguyenLy

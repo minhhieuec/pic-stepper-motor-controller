@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=IC1-8
+Removed Pin From Net: NetName=VCC Pin=IC1-9
+Removed Member From Class: ClassName=NguyenLy Member=IC1
+Added Component: Designator=IC?(DIP18/W0.3)
+Added Component: Designator=IC?(DIP18/W0.3)
+Added Component: Designator=IC?(DIP18/W0.3)
+Added Pin To Net: NetName=GND Pin=IC?-9
+Added Pin To Net: NetName=VCC Pin=IC?-10
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-1
+Added Pin To Net: NetName=NetIC?_1 Pin=U2-15
+Added Net: Name=NetIC?_1
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_2 Pin=U2-16
+Added Net: Name=NetIC?_2
+Added Pin To Net: NetName=NetIC?_3 Pin=IC?-3
+Added Pin To Net: NetName=NetIC?_3 Pin=U2-17
+Added Net: Name=NetIC?_3
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_4 Pin=U2-18
+Added Net: Name=NetIC?_4
+Added Pin To Net: NetName=NetIC?_15 Pin=IC?-15
+Added Pin To Net: NetName=NetIC?_15 Pin=LED3-2
+Added Pin To Net: NetName=NetIC?_15 Pin=P6-5
+Added Net: Name=NetIC?_15
+Added Pin To Net: NetName=NetIC?_16 Pin=IC?-16
+Added Pin To Net: NetName=NetIC?_16 Pin=LED2-2
+Added Pin To Net: NetName=NetIC?_16 Pin=P6-4
+Added Net: Name=NetIC?_16
+Added Pin To Net: NetName=NetIC?_17 Pin=IC?-17
+Added Pin To Net: NetName=NetIC?_17 Pin=LED5-2
+Added Pin To Net: NetName=NetIC?_17 Pin=P6-3
+Added Net: Name=NetIC?_17
+Added Pin To Net: NetName=NetIC?_18 Pin=IC?-18
+Added Pin To Net: NetName=NetIC?_18 Pin=LED4-2
+Added Pin To Net: NetName=NetIC?_18 Pin=P6-2
+Added Net: Name=NetIC?_18
+Added Member To Class: ClassName=NguyenLy Member=Component IC? ULN2803A
+Added Room: Name=NguyenLy

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MCLR Pin=P3-1
+Removed Pin From Net: NetName=VDD Pin=P3-2
+Removed Pin From Net: NetName=VSS Pin=P3-3
+Removed Pin From Net: NetName=B7 Pin=P3-4
+Removed Pin From Net: NetName=B6 Pin=P3-5
+Removed Pin From Net: NetName=B0 Pin=R2-1
+Removed Pin From Net: NetName=VDD Pin=R2-2
+Added Component: Designator=P3(HDR1X5)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Pin To Net: NetName=MCLR Pin=P3-1
+Added Pin To Net: NetName=VDD Pin=P3-2
+Added Pin To Net: NetName=VSS Pin=P3-3
+Added Pin To Net: NetName=B7 Pin=P3-4
+Added Pin To Net: NetName=B6 Pin=P3-5
+Added Pin To Net: NetName=B0 Pin=R2-1
+Added Pin To Net: NetName=VDD Pin=R2-2
+Added Member To Class: ClassName=NguyenLy Member=Component P3 MACH NAP
+Added Member To Class: ClassName=NguyenLy Member=Component R2 Res1
+Added Room: Name=NguyenLy

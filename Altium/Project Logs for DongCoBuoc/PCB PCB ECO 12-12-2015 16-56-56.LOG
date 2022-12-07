@@ -1,0 +1,53 @@
+Added Component: Designator=IC?(DIP40/W0.6)
+Added Component: Designator=R?(R1/6W)
+Added Component: Designator=R?(R1/6W)
+Added Component: Designator=R?(R1/6W)
+Added Component: Designator=R?(R1/6W)
+Added Component: Designator=R?(R1/6W)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=SW?(SW2)
+Added Pin To Net: NetName=B0 Pin=IC?-33
+Added Pin To Net: NetName=B0 Pin=R?-1
+Added Pin To Net: NetName=B0 Pin=SW?-1
+Added Net: Name=B0
+Added Pin To Net: NetName=B1 Pin=IC?-34
+Added Pin To Net: NetName=B1 Pin=R?-1
+Added Pin To Net: NetName=B1 Pin=SW?-1
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=IC?-35
+Added Pin To Net: NetName=B2 Pin=R?-1
+Added Pin To Net: NetName=B2 Pin=SW?-1
+Added Net: Name=B2
+Added Pin To Net: NetName=B3 Pin=IC?-36
+Added Pin To Net: NetName=B3 Pin=R?-1
+Added Pin To Net: NetName=B3 Pin=SW?-1
+Added Net: Name=B3
+Added Pin To Net: NetName=B4 Pin=IC?-37
+Added Pin To Net: NetName=B4 Pin=R?-1
+Added Pin To Net: NetName=B4 Pin=SW?-1
+Added Net: Name=B4
+Added Pin To Net: NetName=B5 Pin=IC?-38
+Added Net: Name=B5
+Added Pin To Net: NetName=B6 Pin=IC?-39
+Added Net: Name=B6
+Added Pin To Net: NetName=B7 Pin=IC?-40
+Added Net: Name=B7
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=NguyenLy Member=Component IC? 16F887
+Added Member To Class: ClassName=NguyenLy Member=Component R? 1k
+Added Member To Class: ClassName=NguyenLy Member=Component SW? SW
+Added Room: Name=NguyenLy

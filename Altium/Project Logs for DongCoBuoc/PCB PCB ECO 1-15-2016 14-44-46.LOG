@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VSS Pin=P3-1
+Change Component Footprint: Designator=U1 Old Footprint=7805 New Footprint=HDR1x3 BIG
+Change Component Footprint: Designator=P2 Old Footprint=LCD16X2 New Footprint=HDR1X16
+Change Component Footprint: Designator=S1 Old Footprint=Switch New Footprint=SPST-2
+Change Component Footprint: Designator=R1 Old Footprint=VR New Footprint=VR5
+Added Component: Designator=J?(PW-J-1MM)
+Added Pin To Net: NetName=VSS Pin=J?-2
+Added Pin To Net: NetName=VSS Pin=J?-3
+Added Pin To Net: NetName=VSS Pin=P3-2
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=P3-1
+Added Pin To Net: NetName=NetJ?_1 Pin=S1-1
+Added Net: Name=NetJ?_1
+Added Member To Class: ClassName=NguyenLy Member=Component J? PWR1.5
+Added Room: Name=NguyenLy

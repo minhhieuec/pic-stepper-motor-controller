@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=MCLR Pin=P?-1
+Removed Pin From Net: NetName=VDD Pin=P?-2
+Removed Pin From Net: NetName=VSS Pin=P?-3
+Removed Pin From Net: NetName=B7 Pin=P?-4
+Removed Pin From Net: NetName=B6 Pin=P?-5
+Removed Member From Class: ClassName=NguyenLy Member=P?
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P5
+Change Component Designator: OldDesignator=P4 NewDesignator=P6
+Change Component Designator: OldDesignator=P5 NewDesignator=P7
+Change Component Designator: OldDesignator=P6 NewDesignator=P8
+Change Component Designator: OldDesignator=P7 NewDesignator=P9
+Change Component Designator: OldDesignator=P8 NewDesignator=P10
+Change Component Designator: OldDesignator=P9 NewDesignator=P11
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=RESET NewDesignator=RESET1
+Change Component Designator: OldDesignator=S3 NewDesignator=S2
+Change Component Designator: OldDesignator=S4 NewDesignator=S3
+Change Component Designator: OldDesignator=S5 NewDesignator=S4
+Change Component Designator: OldDesignator=S6 NewDesignator=S5
+Added Pin To Net: NetName=MCLR Pin=P2-1
+Added Pin To Net: NetName=VDD Pin=P2-2
+Added Pin To Net: NetName=VSS Pin=P2-3
+Added Pin To Net: NetName=B7 Pin=P2-4
+Added Pin To Net: NetName=B6 Pin=P2-5
+Added Member To Class: ClassName=NguyenLy Member=Component P10 Header 6
+Added Member To Class: ClassName=NguyenLy Member=Component P11 Header 4

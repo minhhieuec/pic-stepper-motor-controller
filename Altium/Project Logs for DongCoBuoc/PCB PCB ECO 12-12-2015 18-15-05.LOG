@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Member From Class: ClassName=NguyenLy Member=C?
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2

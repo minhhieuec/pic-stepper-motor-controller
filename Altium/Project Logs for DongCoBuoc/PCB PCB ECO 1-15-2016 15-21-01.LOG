@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=P2 Old Footprint=LCD16X2 New Footprint=HDR1X16
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Added Component: Designator=RV1(RVAR10K)
+Added Pin To Net: NetName=VDD Pin=RV1-1
+Added Pin To Net: NetName=NetP2_3 Pin=RV1-2
+Added Pin To Net: NetName=VSS Pin=RV1-3
+Added Member To Class: ClassName=NguyenLy Member=Component RV1 RV20K
+Added Room: Name=NguyenLy

@@ -1,0 +1,116 @@
+Added Component: Designator=1(R38)
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(RAD-0.3)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X8)
+Added Component: Designator=P3(HDR1X8)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=S1(SPST-2)
+Added Component: Designator=S2(SPST-2)
+Added Component: Designator=S3(SPST-2)
+Added Component: Designator=S4(SPST-2)
+Added Component: Designator=S5(SPST-2)
+Added Component: Designator=S6(SPST-2)
+Added Component: Designator=U1(PDIP600-P40)
+Added Pin To Net: NetName=A6 Pin=1-1
+Added Pin To Net: NetName=A7 Pin=1-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=A6 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=A7 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=D0 Pin=P2-1
+Added Pin To Net: NetName=D1 Pin=P2-2
+Added Pin To Net: NetName=D2 Pin=P2-3
+Added Pin To Net: NetName=D3 Pin=P2-4
+Added Pin To Net: NetName=D4 Pin=P2-5
+Added Pin To Net: NetName=D5 Pin=P2-6
+Added Pin To Net: NetName=D6 Pin=P2-7
+Added Pin To Net: NetName=D7 Pin=P2-8
+Added Pin To Net: NetName=C0 Pin=P3-1
+Added Pin To Net: NetName=C1 Pin=P3-2
+Added Pin To Net: NetName=C2 Pin=P3-3
+Added Pin To Net: NetName=C3 Pin=P3-4
+Added Pin To Net: NetName=C4 Pin=P3-5
+Added Pin To Net: NetName=C5 Pin=P3-6
+Added Pin To Net: NetName=C6 Pin=P3-7
+Added Pin To Net: NetName=C7 Pin=P3-8
+Added Pin To Net: NetName=B0 Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=B1 Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=B2 Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=B3 Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=B4 Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=B4 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=B3 Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=B2 Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=B1 Pin=S5-1
+Added Pin To Net: NetName=GND Pin=S5-2
+Added Pin To Net: NetName=B0 Pin=S6-1
+Added Pin To Net: NetName=GND Pin=S6-2
+Added Pin To Net: NetName=VCC Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=A7 Pin=U1-13
+Added Pin To Net: NetName=A6 Pin=U1-14
+Added Pin To Net: NetName=C0 Pin=U1-15
+Added Pin To Net: NetName=C1 Pin=U1-16
+Added Pin To Net: NetName=C2 Pin=U1-17
+Added Pin To Net: NetName=C3 Pin=U1-18
+Added Pin To Net: NetName=D0 Pin=U1-19
+Added Pin To Net: NetName=D1 Pin=U1-20
+Added Pin To Net: NetName=D2 Pin=U1-21
+Added Pin To Net: NetName=D3 Pin=U1-22
+Added Pin To Net: NetName=C4 Pin=U1-23
+Added Pin To Net: NetName=C5 Pin=U1-24
+Added Pin To Net: NetName=C6 Pin=U1-25
+Added Pin To Net: NetName=C7 Pin=U1-26
+Added Pin To Net: NetName=D4 Pin=U1-27
+Added Pin To Net: NetName=D5 Pin=U1-28
+Added Pin To Net: NetName=D6 Pin=U1-29
+Added Pin To Net: NetName=D7 Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=VCC Pin=U1-32
+Added Pin To Net: NetName=B0 Pin=U1-33
+Added Pin To Net: NetName=B1 Pin=U1-34
+Added Pin To Net: NetName=B2 Pin=U1-35
+Added Pin To Net: NetName=B3 Pin=U1-36
+Added Pin To Net: NetName=B4 Pin=U1-37
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=S2-2
+Added Pin To Net: NetName=NetR6_1 Pin=U1-1
+Added Net: Name=NetR6_1
+Added Member To Class: ClassName=NguyenLy Member=Component 1 XTAL
+Added Member To Class: ClassName=NguyenLy Member=Component C1 Cap
+Added Member To Class: ClassName=NguyenLy Member=Component C2 Cap
+Added Member To Class: ClassName=NguyenLy Member=Component P1 Header 2
+Added Member To Class: ClassName=NguyenLy Member=Component P2 Header 8
+Added Member To Class: ClassName=NguyenLy Member=Component P3 Header 8
+Added Member To Class: ClassName=NguyenLy Member=Component R1 Res1
+Added Member To Class: ClassName=NguyenLy Member=Component R2 Res1
+Added Member To Class: ClassName=NguyenLy Member=Component R3 Res1
+Added Member To Class: ClassName=NguyenLy Member=Component R4 Res1
+Added Member To Class: ClassName=NguyenLy Member=Component R5 Res1
+Added Member To Class: ClassName=NguyenLy Member=Component R6 Res1
+Added Member To Class: ClassName=NguyenLy Member=Component S1 SW-PB
+Added Member To Class: ClassName=NguyenLy Member=Component S2 SW-PB
+Added Member To Class: ClassName=NguyenLy Member=Component S3 SW-PB
+Added Member To Class: ClassName=NguyenLy Member=Component S4 SW-PB
+Added Member To Class: ClassName=NguyenLy Member=Component S5 SW-PB
+Added Member To Class: ClassName=NguyenLy Member=Component S6 SW-PB
+Added Member To Class: ClassName=NguyenLy Member=Component U1 PIC16F887-I/P
+Added Room: Name=NguyenLy

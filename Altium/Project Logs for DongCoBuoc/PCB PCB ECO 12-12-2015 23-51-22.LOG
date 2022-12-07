@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VSS Pin=C1-1
+Removed Pin From Net: NetName=A6 Pin=C1-2
+Removed Pin From Net: NetName=VSS Pin=C2-1
+Removed Pin From Net: NetName=A7 Pin=C2-2
+Removed Pin From Net: NetName=B5 Pin=P7-1
+Removed Pin From Net: NetName=B6 Pin=P7-2
+Removed Pin From Net: NetName=B7 Pin=P7-3
+Removed Member From Class: ClassName=NguyenLy Member=P11
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap New DesignItemId=Cap2
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap New DesignItemId=Cap2
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=CAPR5-4X5
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=Cap2
+Change Component Comment : Designator=C2 Old Comment=Cap New Comment=Cap2
+Change Component Designator: OldDesignator=P8 NewDesignator=P7
+Change Component Designator: OldDesignator=P9 NewDesignator=P8
+Change Component Designator: OldDesignator=P10 NewDesignator=P9
+Change Component Designator: OldDesignator=P11 NewDesignator=P10
+Added Component: Designator=P4(HDR1X8)
+Added Pin To Net: NetName=A6 Pin=C1-1
+Added Pin To Net: NetName=VSS Pin=C1-2
+Added Pin To Net: NetName=A7 Pin=C2-1
+Added Pin To Net: NetName=VSS Pin=C2-2
+Added Pin To Net: NetName=B0 Pin=P4-1
+Added Pin To Net: NetName=B1 Pin=P4-2
+Added Pin To Net: NetName=B2 Pin=P4-3
+Added Pin To Net: NetName=B3 Pin=P4-4
+Added Pin To Net: NetName=B4 Pin=P4-5
+Added Pin To Net: NetName=B5 Pin=P4-6
+Added Pin To Net: NetName=B6 Pin=P4-7
+Added Pin To Net: NetName=B7 Pin=P4-8
+Added Member To Class: ClassName=NguyenLy Member=Component P4 Header 8
+Added Room: Name=NguyenLy

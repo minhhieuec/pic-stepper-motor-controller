@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=MCLR Pin=P2-1
+Removed Pin From Net: NetName=VSS Pin=P2-3
+Removed Pin From Net: NetName=B7 Pin=P2-4
+Removed Pin From Net: NetName=B6 Pin=P2-5
+Removed Pin From Net: NetName=B0 Pin=R1-1
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 5 New DesignItemId=Header 16
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res1 New DesignItemId=RPot
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=VR5
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X5 New Footprint=HDR1X16
+Change Component Comment : Designator=P2 Old Comment=MACH NAP New Comment=LCD
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=RPot
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P7
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Change Component Designator: OldDesignator=P8 NewDesignator=P9
+Change Component Designator: OldDesignator=P9 NewDesignator=P10
+Change Component Designator: OldDesignator=P10 NewDesignator=P11
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Added Component: Designator=P3(HDR1X5)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Pin To Net: NetName=VSS Pin=P2-1
+Added Pin To Net: NetName=C0 Pin=P2-4
+Added Pin To Net: NetName=VSS Pin=P2-5
+Added Pin To Net: NetName=C1 Pin=P2-6
+Added Pin To Net: NetName=C4 Pin=P2-11
+Added Pin To Net: NetName=C5 Pin=P2-12
+Added Pin To Net: NetName=C6 Pin=P2-13
+Added Pin To Net: NetName=C7 Pin=P2-14
+Added Pin To Net: NetName=VDD Pin=P2-15
+Added Pin To Net: NetName=VSS Pin=P2-16
+Added Pin To Net: NetName=MCLR Pin=P3-1
+Added Pin To Net: NetName=VDD Pin=P3-2
+Added Pin To Net: NetName=VSS Pin=P3-3
+Added Pin To Net: NetName=B7 Pin=P3-4
+Added Pin To Net: NetName=B6 Pin=P3-5
+Added Pin To Net: NetName=VSS Pin=R1-1
+Added Pin To Net: NetName=B0 Pin=R2-1
+Added Pin To Net: NetName=VDD Pin=R2-2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=R1-3
+Added Net: Name=NetP2_3
+Added Member To Class: ClassName=NguyenLy Member=Component P11 Header 4
+Added Member To Class: ClassName=NguyenLy Member=Component R7 Res1
+Added Room: Name=NguyenLy

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P2 Old Footprint=LCD16X2N New Footprint=HDR1X16
+Added Pin To Net: NetName=VCC Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Change Net Name : Old Net Name=GND New Net Name=VSS
+Change Net Name : Old Net Name=VCC New Net Name=VDD
+Added Room: Name=NguyenLy

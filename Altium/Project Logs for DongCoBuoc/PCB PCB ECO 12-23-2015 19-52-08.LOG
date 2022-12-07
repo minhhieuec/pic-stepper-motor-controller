@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=P3-2
+Change Component Footprint: Designator=U1 Old Footprint=7805 New Footprint=HDR1x3 BIG
+Change Component Footprint: Designator=P2 Old Footprint=LCD16X2N New Footprint=HDR1X16
+Change Component Footprint: Designator=S1 Old Footprint=Switch New Footprint=SPST-2
+Change Component Footprint: Designator=R1 Old Footprint=VR New Footprint=VR5
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=P4-2
+Added Pin To Net: NetName=NetP3_2 Pin=S1-1
+Added Net: Name=NetP3_2
+Added Room: Name=NguyenLy

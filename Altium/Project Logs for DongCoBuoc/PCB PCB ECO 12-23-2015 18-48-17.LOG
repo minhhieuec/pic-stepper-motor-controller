@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P2 Old Footprint=LCD16X2N New Footprint=HDR1X16
+Change Component Footprint: Designator=R1 Old Footprint=VR New Footprint=VR5
+Change Component Library : Designator=P5 Old Library=Miscellaneous Connectors.IntLib New Library=NBBLib 14-03-2012.IntLib
+Added Room: Name=NguyenLy
